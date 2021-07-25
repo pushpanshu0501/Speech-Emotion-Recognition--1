@@ -62,8 +62,8 @@ Week 6:
     
 ## Results:
 
-  - CNN model gave an accuracy of 71% 
-  - LSTM model gave an accuracy of 66%
+  - CNN model gave an accuracy of 73% 
+  - LSTM model gave an accuracy of 71%
   - MLP model gave an accuracy of 62%
 
 ## References:
