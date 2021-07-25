@@ -3,7 +3,7 @@ This is a Speech Emotion Recognition based on RAVDESS dataset, project repositor
 
 Clone repo using:
 ```bat
-git clone https://github.com/pushpanshu0501/Speech-Emotion-Recognition--1.git 
+git clone https://github.com/Aaka3021/Speech-Emotion-Recognition--1.git
 ```
 
 ## Abstract:
